@@ -3,6 +3,9 @@
 
 using namespace std;
 
+//**************************************************************
+// SECTION 2: Essential C and C++ Concepts
+//**************************************************************
 
     ///////////////////
     //ARRAYS
@@ -133,8 +136,21 @@ for each loop
 //
 //    cout << p->length<<endl;
 //    cout << p->breadth<<endl;
+
+//FUNCTIONS
+//int add (int a, int b) {
+//    int c;
+//    c = a + b;
+//    return c;
+//}
+
+//    int num1 = 10, num2 = 15, sum;
+//
+//    sum = add(num1, num2);
+//    cout << sum;
+
+// PARAMETER PASSING METHODS
 int main() {
-//FUCNTIONS
-cout << "hello";
+
     return 0;
 }
